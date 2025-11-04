@@ -1,0 +1,8 @@
+# **Objecten voor de variant 'Documentatie van het project'**
+Het proces **Documentatie van het project** wordt automatisch gekozen als u één van onderstaande typen selecteert. Er moet vervolgens aangeven of u op basis van een vastgesteld aantal verdiepingen documenteert, of dat u zelf bepaald voor welke verdiepingen u documentatie genereert.
+- **Revit Project**
+'Revit Project' wordt gebruikt voor het documenteren van uw hele project. Dit proces houdt geen rekening met de afmetingen van uw project en is daarom ideaal voor het genereren van de eerste 'Views' voor uw model: de "werkviews" of "modelleerviews".
+- **Revit Scopebox**
+'Revit Scopebox' wordt gebruikt voor het documenteren van het project of projectdelen op basis van door u aangemaakte 'Scopeboxen'. Een 'Scopebox' is een 3D afbakening van uw project. 'TheModus Documentatie' gebruikt deze afbakening voor het berekenen van de afmetingen van uw 'Views' en de juiste plaats op de 'Sheets'. 
+- **TheModus Projectgroup**
+'TheModus Projectgroup' wordt gebruikt voor het documenteren van het project of projectdelen op basis van door u aangemaakte 'TheModus Projectgroup'. Dit proces is een uitgebreide variant op de 'Revit Scopbox'. Dit proces biedt u meer mogelijkheden om 'Schedules' aan te maken op basis van kenmerken van uw 'TheModus Projectgroup'. 'TheModus Projectgroup' wordt vaak gebruikt voor de documentatie van woningbouwprojecten, waarbij meteen uittrekstaten worden gegenereerd met de juiste hoeveelheden van de specifiek woningen.
