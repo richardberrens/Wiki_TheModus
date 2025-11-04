@@ -3,8 +3,6 @@ tags:themodus
 --- 
 # Inhoudsopgave
 
-[[_TOSP_]]
-
 # **Aan de slag met TheModus**
 
 Voordat u aan de slag gaat met TheModus adviseren wij u eerst onderstaande artikelen goed door te nemen.
