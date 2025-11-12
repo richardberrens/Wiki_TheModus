@@ -4,6 +4,7 @@ tags:themodus
 # **Notificatie**
 
 Vanuit Cadac worden periodiek notificaties gestuurd naar de gebruikers.
+test
 
 Deze notificaties geven meldingen over nieuwe features of verbeteringen,
 maar kunnen ook tips melden.
